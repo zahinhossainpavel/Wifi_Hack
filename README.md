@@ -1,4 +1,4 @@
-$ apt update && apt upgrade
+$ apt update && apt upgrade\n
 $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 $ git clone https://github.com/zahinhossainpavel/Wifi_Hack.git
