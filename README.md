@@ -12,6 +12,6 @@ $ git clone https://github.com/zahinhossainpavel/Wifi_Hack.git
 
 $ cd Wifi_Hack
 
-$ chmod +x markilouise.py
+$ chmod +x marki_louise.py
 
-$ sudo python markilouise.py --help
+$ sudo python marki_louise.py --help
