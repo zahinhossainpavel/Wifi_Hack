@@ -1,3 +1,7 @@
+YOU NEED ROOT USE THIS TOOL!!!!
+
+it is for educational purpose, dont use this on illegal way.
+
 $ apt update && apt upgrade
 
 $ pkg install -y root-repo
